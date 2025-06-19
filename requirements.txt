@@ -1,0 +1,9 @@
+altair==5.5.0
+python-dotenv==1.1.0
+pandas==2.2.2
+streamlit==1.45.0
+torch==2.5.1
+transformers==4.46.2
+regex==2024.11.6
+plotly==6.0.1
+google-api-python-client==2.169.0
