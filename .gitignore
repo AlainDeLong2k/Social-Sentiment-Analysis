@@ -175,6 +175,3 @@ cython_debug/
 
 # Streamlit Secrets
 .streamlit/secrets.toml
-
-# Images
-images/
